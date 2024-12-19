@@ -1,0 +1,1 @@
+D:\UnityProjects\VibeHorizon\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\1i28y705\obj\arm64-v8a
