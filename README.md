@@ -1,7 +1,3 @@
-Here’s a short README for your game, **Vibe Horizons**: 
-
----
-
 # Vibe Horizons 🎶🌌
 
 ![Watch the Intro](https://github.com/YE-Qingtian/VibeHorizon/raw/refs/heads/main/About/Intro.mkv)  
@@ -32,7 +28,3 @@ Here’s a short README for your game, **Vibe Horizons**:
 
 ## 🌟 Contributions
 Feedback and contributions are welcome! Create an issue or submit a pull request.
-
----
-
-Does this align with your vision for the README?
