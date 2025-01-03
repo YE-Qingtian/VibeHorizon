@@ -4,7 +4,7 @@ Here’s a short README for your game, **Vibe Horizons**:
 
 # Vibe Horizons 🎶🌌
 
-![Watch the Intro](https://github.com/<your-repository>/raw/main/About/Intro.mkv)  
+![Watch the Intro](https://github.com/YE-Qingtian/VibeHorizon/raw/refs/heads/main/About/Intro.mkv)  
 *Click the video above to see Vibe Horizons in action!*
 
 **Vibe Horizons** is an immersive VR experience where live audio is visualized in real time. Whether you’re grooving in a Music Hall or meditating in serene Grassfields, this project transforms sound into vibrant, interactive visuals.
